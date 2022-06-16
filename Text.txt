@@ -1,0 +1,11 @@
+int i=0;
+int main() {
+	int j=1;
+	if(j>i) {
+		j--;
+	}
+	else {
+		i--;
+	}
+	cout<<i;
+}
